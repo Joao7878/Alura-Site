@@ -1,0 +1,75 @@
+a{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+.nav-cabeçalho{
+    display: inline-block;
+    margin-left: 50%;
+}
+.cabeçalho{
+    display: inline-block;
+    padding: 0 25px;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+h1{
+    display: inline-block;
+    margin-left: 40px;
+}
+h2{
+    text-align: center;
+    font-size: 27px;
+}
+p {
+    text-align: center;
+}
+#missao{
+    font-size: 20px;
+}
+i b{
+    color: red;
+}
+.itens{
+    font-style: italic;
+    font-size: 30px;
+    padding-bottom: 50%;
+}
+.itens1{
+    font-style: italic;
+    font-size: 30px;
+    padding-bottom: 50%;
+}
+.beneficios{
+    background-color: white;
+}
+div h3{
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
+#beneficios{
+    width: 50%;
+}
+/*padding = espaçamento interno de todos os lados
+padding-top=espaçamento só para cima
+padding(somente o texto)
+Assim por diante
+margin-left=margem para esquerda
+marign(inclui todos os elementos)
+Assim por diante*/
